@@ -102,3 +102,6 @@ ENV/
 
 # vim
 *.sw[po]
+
+# project
+images_real/
